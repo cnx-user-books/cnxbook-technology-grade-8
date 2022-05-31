@@ -1,0 +1,219 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Important measuring units</title>
+  <metadata>
+  <md:content-id>m23764</md:content-id><md:title>Important measuring units</md:title>
+  <md:abstract/>
+  <md:uuid>e998b994-f2c5-4f76-b5ac-14dcf1717eb1</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168993885504">
+      <title>TECHNOLOGY </title>
+      <para id="para-id1168993885504">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168995325083">
+      <title>Grade 8</title>
+      <para id="para-id1168995325083">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168994569221">
+      <title>ELECTRICITY</title>
+      <para id="para-id1168994569221">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169005229649">
+      <title>Module 15</title>
+      <para id="para-id1169005229649">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8069085">
+      <title>IMPORTANT MEASURING UNITS</title>
+      <para id="id6731684">Activity 1</para>
+      <para id="id1169002269611">To be able to explain the most important measuring units and their mutual connection</para>
+      <table id="id937337" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LO 2.4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169002315289">We have already said that an electrical current is the flow of electrons in a circle. The speed at which the electrons flow, is measured in<emphasis effect="bold"> Ampère.</emphasis> In order to measure amperage, one must allow the current to flow through an Ammeter.</para>
+      <para id="id1169006688018">The battery supplies the energy that is also called the <emphasis effect="bold">electromotive force (EMF</emphasis>). It is measured in <emphasis effect="bold">Volts</emphasis>. In order to measure voltage one must place the two points of a voltmeter on either side of a component.</para>
+      <para id="id3975646">Resistance is offered against the flow of the current and the resistance is measured in <emphasis effect="bold">Ohms</emphasis>.</para>
+      <para id="id1168992830668">A battery does not provide its full energy because some of its energy is lost. This is called power and it is measured in <emphasis effect="bold">Watts</emphasis>.</para>
+      <para id="id1168993146587">Ohm’s law states that the current through a resistor is directly proportional to the tension that is coupled over a resistor, i.e. the current is directly proportional to the tension and inversely proportional to the resistor. It is formulated as follows:</para>
+      <para id="id8806727">I = V / R</para>
+      <para id="id1169004186127">Actuation is the energy that must supply the battery and is wasted as heat in a resistor. It is formulated as follows:</para>
+      <para id="id1168995553950">P = V x I</para>
+      <list id="id6372313" list-type="bulleted">
+        <item>Summary of electrical units</item>
+      </list>
+      <table id="id4040633" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Symbol</entry>
+              <entry>Unit</entry>
+              <entry>Abbreviation</entry>
+            </row>
+            <row>
+              <entry>TENSION</entry>
+              <entry>V</entry>
+              <entry>Volt</entry>
+              <entry>V</entry>
+            </row>
+            <row>
+              <entry>CURRENT</entry>
+              <entry>I</entry>
+              <entry>Ampère</entry>
+              <entry>A</entry>
+            </row>
+            <row>
+              <entry>RESISTANCE</entry>
+              <entry>R</entry>
+              <entry>Ohm</entry>
+              <entry>Ώ</entry>
+            </row>
+            <row>
+              <entry>POWER</entry>
+              <entry>P</entry>
+              <entry>Watt</entry>
+              <entry>W</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1168993973040">The formulas make it possible for one to determine units through mathematical computations, e.g. if one has the Volts and Ampère of a circuit, one can calculate the power. Nowadays we use advanced apparatus to measure current, tension and resistance.</para>
+      <list id="id1169003537088" list-type="bulleted">
+        <item>The multimeter is such a device. If your school owns one, you will have the opportunity to take readings with it.</item>
+      </list>
+      <para id="id7635356">Assignment 1</para>
+      <para id="id1168995453314">1. Provide two more formulas that can be derived from the formula I = V / R.</para>
+      <para id="id1683878"/>
+      <para id="id1169005154915">2. Provide two more formulas that can be derived from the formula P = V x I.</para>
+      <para id="id1169003583419"/>
+      <para id="id2345396"/>
+      <para id="id1168993961483"/>
+      <para id="id1168995256323"/>
+      <para id="id5730929"/>
+      <table id="id1168993946525" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LO 2.4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id8777163">
+      <title>Assessment</title>
+      <table id="id1168993643498" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 2 </entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">TECHNOLOGICAL KNOWLEDGE AND UNDERSTANDING</emphasis>The learner will be able to understand and apply relevant technological knowledge ethically and responsibly.</entry>
+            </row>
+            <row>
+              <entry>This is demonstrated when the learner:</entry>
+            </row>
+            <row>
+              <entry>structures:2.1 demonstrate knowledge and understanding of frame structures:<list id="id6580568" list-type="bulleted"><item>the use and application of basic structural components (columns, beams, arches, buttresses, struts, stays, guys, ties);</item><item>reinforcing techniques for frame structures (triangulation, webs and fillets, orientation and cross-sectional area and members);</item><item>how frame structures can be made strong (e.g. relationship between the size and the shape of the base, the centre of gravity and stability;</item></list>systems and control:2.4 demonstrates knowledge and understanding of how electrical circuits with more than one input or control device will work based on different logic conditions (“AND” and “OR” logic), and represents them using circuit diagrams, systems diagrams and truth tables.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id8272933">
+      <title>Memorandum</title>
+      <list id="id1168993444218" list-type="bulleted">
+        <item>The following definitions are important:</item>
+      </list>
+      <list id="id1169002712831" list-type="bulleted">
+        <item>Electric current: Flow of electrons in a closed circuit</item>
+        <item>Voltage: Electromotive force that enables the flow of electric current</item>
+        <item>Resistance: Quality of materials offering resistance to the flow of electric current.</item>
+        <item>Power: The energy that a battery has to provide and which is used in a resistor.</item>
+      </list>
+      <para id="id1169004863077">Ohm's law:</para>
+      <list id="id1169001516618" list-type="bulleted">
+        <item>This states that the current passing through a resistor is directly proportional to the potential difference, or voltage, across the resistor, i.e. the current is directly proportional to the linked voltage and inversely proportional to the resistance.</item>
+      </list>
+      <para id="id1168998645532">Assignment 1</para>
+      <para id="id969136"/>
+      <para id="id1169004352717">1. V = I × R and R = V/I</para>
+      <para id="id1169002437479">2. V = P/I en I = P/V</para>
+      <para id="id4611360">3. R = V/I = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>1,5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {1,5} } } {}</m:annotation></m:semantics></m:math> = 2 ohm</para>
+      <para id="id1169003277635">4. P = V × I = 3V × 1,5A = 4,5 watt</para>
+    </section>
+  </content>
+</document>

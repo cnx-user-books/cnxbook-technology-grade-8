@@ -1,0 +1,203 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Series and parallel connections</title>
+  <metadata>
+  <md:content-id>m31700</md:content-id><md:title>Series and parallel connections</md:title>
+  <md:abstract/>
+  <md:uuid>76cfceb6-475a-4e3a-9114-c0e4a5ab1889</md:uuid>
+</metadata>
+
+<content>
+    <para id="id6171935">TECHNOLOGY </para>
+    <para id="id3566362">Grade 8</para>
+    <para id="id5690325">ELECTRICITY</para>
+    <para id="id5690329">Module 16</para>
+    <para id="id4563549">SERIES AND PARALLEL CONNEXIONS</para>
+    <para id="id3784817">Activity 1</para>
+    <para id="id4400326">To gain knowledge about series and parallel connections by doing practical tests</para>
+    <para id="id8224835">[LO 1.3]</para>
+    <para id="id4400330">In a series connection the components are connected in line, one after the other. In a parallel connection the components are connected next to each other. The way in which the components have been connected has a great influence on the delivery of the circuit. In order to understand the result of this kind of connection proper­ly, it is best to look at a few circuits. Your teacher will supply you with the components you need to build the following circuits, either on self-made boards or on bread-boards.</para>
+    <para id="id3927571">Assignment 1</para>
+    <para id="id5296485">Construct the following circuits and describe the result on the output component. You may use either a light bulb or LED as output component. Remember that the long pin of the LED is positive. Your teacher will also give you the proper resistor size to protect the LED. If you have a multimeter, you will be able to take readings of the Volts, Ampères and Ohms.</para>
+    <para id="id17498722">Cells in series</para>
+    <para id="id3498596">
+      <figure id="id3498600">
+        <media id="id3498600_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-62fb.png" id="id3498600__onlineimage" height="195" width="344"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id8063945">a) What is the total voltage of the battery? </para>
+    <para id="id5344046">b) What happens if one cell is removed?</para>
+    <para id="id3541936">The light bulb / LED shines</para>
+    <para id="id4445768">brightly</para>
+    <para id="id3485772">dimly</para>
+    <para id="id3485776">very dimly</para>
+    <para id="id8505397">(underline the correct answer)</para>
+    <para id="id3649805">2. Cells in parallel:</para>
+    <para id="id4483072">
+      <figure id="id4483076">
+        <media id="id4483076_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2.png" id="id4483076__onlineimage" height="251" width="313"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id3883238">a) What is the total voltage of the battery?</para>
+    <para id="id5494752">b) What happens if one cell is removed?</para>
+    <para id="id5621548">The light bulb / LED shines</para>
+    <para id="id3628700">brightly</para>
+    <para id="id3628704">dimly</para>
+    <para id="id9452159">very dimly</para>
+    <para id="id17475256">(underline the correct answer)</para>
+    <para id="id17475261">3. Light bulbs / LEDs in series:</para>
+    <para id="id3570020"/>
+    <figure id="id5598107">
+      <media id="id5598107_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics3.png" id="id5598107__onlineimage" height="222" width="407"/>
+      </media>
+    </figure>
+    <para id="id5507835">a) What happens if one light bulb / LED is removed?</para>
+    <para id="id3539728"/>
+    <para id="id3846629">b) What happens if one more light bulb / LED is added using the same kind of connection?</para>
+    <para id="id8553883"/>
+    <para id="id17473567">c) What is the total voltage of V1 and V2 together?</para>
+    <para id="id5290363"/>
+    <para id="id4607403">4. Light bulbs / LEDs in parallel:</para>
+    <para id="id3654776"/>
+    <figure id="id4408161">
+      <media id="id4408161_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics4.png" id="id4408161__onlineimage" height="245" width="411"/>
+      </media>
+    </figure>
+    <para id="id6293496">a) What happens if one light bulb / LED is removed?</para>
+    <para id="id3744617">b) What happens if one more light bulb / LED is added using the same kind of connection?</para>
+    <para id="id4633284"/>
+    <para id="id5515768">c) What is the total voltage of V1 and V2 together?</para>
+    <para id="id3308940">5. Resistors in series:</para>
+    <figure id="id3334029">
+      <media id="id3334029_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics5.png" id="id3334029__onlineimage" height="265" width="463"/>
+      </media>
+    </figure>
+    <para id="id5538734"/>
+    <para id="id8599894">a) What is the function of the resistors?</para>
+    <para id="id5344190">b) What is the total resistance in the circuit?</para>
+    <para id="id8556984">Focus Task 1</para>
+    <para id="id7128965">To master the skill of soldering</para>
+    <para id="id7128969">[LO 1.10]</para>
+    <para id="id5726987">Your teacher will give you more information on soldering and also demonstrate how it is done. Soldering wire is a combination of tin and lead. This means that the smoke that is emitted during he soldering process is bad for your health. Try to inhale as little as possible of this smoke.</para>
+    <para id="id6116880">Apply all safety measures.</para>
+    <para id="id6116884">Demonstrate your soldering skills by soldering a simple form from wire. A few examples are given below.</para>
+    <para id="id3326607">Examples of soldering:</para>
+    <para id="id3326612">Steps in making a wire figure</para>
+    <para id="id4634733">1 Bend / bind wire.</para>
+    <para id="id5597638">2 Solder arms.</para>
+    <para id="id3334511">3 Add extra shapes.</para>
+    <para id="id3904059"/>
+    <para id="id5289565"/>
+    <para id="id5682116"/>
+    <figure id="id3612925">
+      <media id="id3612925_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics6.png" id="id3612925__onlineimage" height="481" width="413"/>
+      </media>
+    </figure>
+    <para id="id3781513"/>
+    <para id="id6229024">Situation 1</para>
+    <para id="id6229029">You have been asked to design a Steady-Hand Game that can be used to improve children’s hand-eye coordination. You may use a 3 volt light bulb or a standard LED or 3 volt buzzer – this will switch on when the probe touches the metal frame.</para>
+    <para id="id4163348">Components required for a circuit.</para>
+    <para id="id6230175">1 Metal form – bend wire in form as required. (You may use a soldering rod.)</para>
+    <para id="id5323772">2 Probe – can also be made of soldering rod.</para>
+    <para id="id6127492">3 LED – the common 3 volt type (or a 3V light bulb).</para>
+    <para id="id6270903">4 Connector – a single connector cut from a strip.</para>
+    <para id="id5493241">5 3 Volt battery container with wires attached.</para>
+    <para id="id17335516">6 Connector – double connector cut from strip.</para>
+    <para id="id3500452">7 Wire – to connect the handle to the circuit.</para>
+    <figure id="id8656376">
+      <media id="id8656376_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics7.png" id="id8656376__onlineimage" height="301" width="455"/>
+      </media>
+    </figure>
+    <para id="id4016628">
+      <figure id="id4016633">
+        <media id="id4016633_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics8.png" id="id4016633__onlineimage" height="423" width="561"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id6279331"/>
+    <para id="id8227593">Situation 2</para>
+    <para id="id3956723"/>
+    <figure id="id5668837">
+      <media id="id5668837_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics9.png" id="id5668837__onlineimage" height="205" width="346"/>
+      </media>
+    </figure>
+    <para id="id9220923">We are all aware that smoking is bad for ones health. Even passive smokers are greatly harmed by people who smoke in their presence. Use an old medicine bottle to manufacture an anti-smoking sign. The drawing must contain a circuit that will draw the attention of smokers. You can make use of a flickering LED to make the sign more effective.</para>
+    <para id="id4034193">Assessment</para>
+    <table id="id4034197" summary="">
+      <tgroup cols="1">
+        <colspec colnum="1" colname="c1"/>
+        <tbody>
+          <row>
+            <entry>Learning outcomes(LOs)</entry>
+          </row>
+          <row>
+            <entry/>
+          </row>
+          <row>
+            <entry>LO 2 </entry>
+          </row>
+          <row>
+            <entry>TECHNOLOGICAL KNOWLEDGE AND UNDERSTANDINGThe learner will be able to understand and apply relevant technological knowledge ethically and responsibly.</entry>
+          </row>
+          <row>
+            <entry>This is demonstrated when the learner:</entry>
+          </row>
+          <row>
+            <entry>structures:2.1 demonstrate knowledge and understanding of frame structures:the use and application of basic structural components (columns, beams, arches, buttresses, struts, stays, guys, ties);reinforcing techniques for frame structures (triangulation, webs and fillets, orientation and cross-sectional area and members);how frame structures can be made strong (e.g. relationship between the size and the shape of the base, the centre of gravity and stability;systems and control:2.4 demonstrates knowledge and understanding of how electrical circuits with more than one input or control device will work based on different logic conditions (“AND” and “OR” logic), and represents them using circuit diagrams, systems diagrams and truth tables.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id4375017">Memorandum</para>
+    <para id="id8412166">Learners have to discover this through practical experience. Many schools still have wooden boards that are suitable for this practical exercise. The breadboards are also very suited, as circuits can be built very quickly. In this instance, LEDs can be used in the place of light bulbs. This also provides an ideal opportunity to use the MultiMate. Learners could take readings while they are working.</para>
+    <para id="id4158958">Note that the long arm is positive and the short arm negative. The components therefore have to be linked correctly and be protected by a resistor.</para>
+    <para id="id8225931">Assignment 1</para>
+    <para id="id5661664">1. a) 1,5 V + 1,5 V = 3 V</para>
+    <para id="id3625368">b) The output glow is duller.</para>
+    <para id="id3668751">2. a) 1,5 V</para>
+    <para id="id3710399">b) No noticeable effect, but battery will discharge faster.Dull</para>
+    <para id="id8464416">3. a) The others do not glow.</para>
+    <para id="id5666269">b) All glow more dully.</para>
+    <para id="id5663999">c) 3 V (if the input is a 3V battery, there is no resistance)</para>
+    <para id="id4136445">4. a) The other one continues to glow.</para>
+    <para id="id3768210">b) All will glow equally brightly.</para>
+    <para id="id3770280">c) 3V (if input is a 3V battery, there is no resistance.)</para>
+    <para id="id5631118">5. a) It protects the LEDs in the circuit.</para>
+    <para id="id3626560">b) R1 + R2 = RT (formula for serially-linked resistors)</para>
+    <para id="id8538307">Focus Task 1:</para>
+    <para id="id6140492">Soldering:</para>
+    <para id="id4375830">The following sketch illustrates the basic requirements for soldering. The solder is an alloy of lead and tin. It contains its own flux which allows the solder to flow freely.</para>
+    <figure id="id17287311">
+      <media id="id17287311_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics10.png" id="id17287311__onlineimage" height="340" width="536"/>
+      </media>
+    </figure>
+    <para id="id8547451"/>
+    <para id="id8547456">Situation 1</para>
+    <para id="id6143343">The following examples provide an idea of what the learners' ideas should lead to (a wooden board of 150 mm x 60 mm x 22 mm could be used as a base). If learners wish to add a background, a saw may be used to cut a 3-mm groove in the board, for inserting a piece of hardboard as backing. Motifs that suit the wiring (theme) may be painted on this background, or suitable pictures may be pasted on it.</para>
+    <para id="id6002590">Situation 2</para>
+    <para id="id3318240">Learners could make use of waste containers, like plastic bottles, to cut out motives, e.g. a pair of lungs, and draw in details using fibre-tipped pens with permanent colours. The circuit could be built on strip board, using long wires for linking the battery, so that the battery can remain outside the bottle. The circuit board can be inserted into the bottle if the back of the bottle is cut open.</para>
+    <para id="id4449832">In both instances learners have to identify and formulate the problems that arise in the given situation. They have to write their own design proposals and the educator could stipulate specifications according to the nature of the class, materials, equipment and available components. The learners' ideas might include different circuit layouts as well as different designs. The educator will have to evaluate their models accordingly.</para>
+    <para id="id5639671">Each learner has to produce a portfolio and design a cover page for it.</para>
+    <para id="id5639674">The following steps have to be followed during soldering:</para>
+    <para id="id9151381">Ensure that no movement occurs where the wires are being joined (a "third hand" will be needed).</para>
+    <para id="id4349560">Heat the join with the soldering iron.</para>
+    <para id="id4349564">Place some soldering flux on the join.</para>
+    <para id="id17473047">There should be a shiny join when the wire has cooled down.</para>
+    <para id="id4490208">Take note:</para>
+    <para id="id6342442">The surfaces to be joined must be clean.</para>
+    <para id="id6342446">Allow 3 to 5 seconds for the heating of the join.</para>
+    <para id="id17197847">Use a soldering iron of appropriate size for your work.</para>
+    <para id="id17502433">A practical suggestion: When two wires are to be joined by soldering, the two separate ends could be soldered before being joined together — this is known as sweating. Use old printed circuit boards (PCBs) for practising soldering.</para>
+  </content>
+</document>

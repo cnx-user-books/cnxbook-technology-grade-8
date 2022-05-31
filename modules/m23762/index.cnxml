@@ -1,0 +1,501 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Circuits, conductors and isolators</title>
+  <metadata>
+  <md:content-id>m23762</md:content-id><md:title>Circuits, conductors and isolators</md:title>
+  <md:abstract/>
+  <md:uuid>f69100ae-1d06-4cb2-b2aa-7af93b8a843c</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1169652353793">
+      <title>TECHNOLOGY </title>
+      <para id="para-id1169652353793">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169652674160">
+      <title>Grade 8</title>
+      <para id="para-id1169652674160">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169644589504">
+      <title>ELECTRICITY</title>
+      <para id="para-id1169644589504">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7395767">
+      <title>Module 14</title>
+      <para id="para-id7395767">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2839651">
+      <title>CIRCUITS, CONDUCTORS AND ISOLATORS</title>
+      <para id="id1169650541643">Activity 1</para>
+      <para id="id1169644315153">To</para>
+      <list id="id1169649866087" list-type="bulleted">
+        <item>master the basic knowledge of circuits, conductors and isolators</item>
+        <item>do practical tests in the area of systems and control</item>
+        <item>draw an electric circuit diagram</item>
+      </list>
+      <table id="id1169644624496" summary="">
+        <tgroup cols="17">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <colspec colnum="17" colname="c17"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LO 1.3</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>LO 2.1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>LO 2.4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169642839377">In a system each part has a function to fulfill in order to make the system work. Electrical systems are no different. Each part, in this case called the <emphasis effect="bold">component,</emphasis> has a specific function. The components cannot function separately and must be linked to one another in what we call a <emphasis effect="bold">circuit</emphasis>.</para>
+      <para id="id7960156">A circuit must have a power source, e.g. a battery, it must be closed and it must have a function, e.g. a light bulb that emits light. You will be working with very simple systems in this module.</para>
+      <para id="id1169647250964">Certain materials are suitable to conduct electricity well and are used in circuits. They are known as <emphasis effect="bold">conductors. </emphasis>Examples of conductors are silver, copper, aluminium and gold. You entrust your life to <emphasis effect="bold">isolators</emphasis> every day, for example when you touch the electrical cord of a hair-drier. Isolators are materials that do not conduct electricity, because they do not contain any free electrons. Examples are rubber, PVC and asbestos.</para>
+      <para id="id1169649854349">Assignment1:</para>
+      <list id="id1169647920832" list-type="bulleted">
+        <item>Your educator will give you a simple circuit with a light bulb with which you can test the following items to see whether they are isolators:</item>
+      </list>
+      <figure id="id1169646430656">
+        <media id="id1169646430656_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-15dc.png" id="id1169646430656__onlineimage" height="136" width="296"/>
+        </media>
+      </figure>
+      <table id="id1169651179017" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Item</entry>
+              <entry>Material</entry>
+              <entry>Isolator</entry>
+              <entry>Conductor</entry>
+            </row>
+            <row>
+              <entry>Ruler</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Nail</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Paper clip</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Wool</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Cardboard</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Tin foil</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1169651522595" list-type="bulleted">
+        <item>When an electric current flows, it has mainly three effects, namely</item>
+      </list>
+      <list id="id1169644032604" list-type="bulleted">
+        <item>a heating effect;</item>
+        <item>a magnetizing effect; and</item>
+        <item>a chemical effect.</item>
+      </list>
+      <para id="id1169646455062">If you open a radio, you will see a lot of coloured components on green boards. These advanced circuits and the lay-out are designed with the aid of a computer. Before the construction of a circuit can be started, a circuit diagram has to be drawn to indicate the exact lay-out. We are going to examine only a few basic components that will enable us to design and manufacture a simple circuit for an article. We classify the components according to their function in three categories, namely <emphasis effect="bold">Input</emphasis>, <emphasis effect="bold">Process</emphasis> and <emphasis effect="bold">Output</emphasis>.</para>
+      <para id="id1169647045447"/>
+      <table id="id1169644135342" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Input</entry>
+              <entry>Process</entry>
+              <entry>Output</entry>
+            </row>
+            <row>
+              <entry>Push-button switch</entry>
+              <entry>Resistor</entry>
+              <entry>Light bulb</entry>
+            </row>
+            <row>
+              <entrytbl cols="1">
+                <colspec colnum="1" colname="c1"/>
+                <tbody>
+                  <row>
+                    <entry>Cell</entry>
+                  </row>
+                  <row>
+                    <entry>Battery</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+              <entry>Adjustable resistor</entry>
+              <entrytbl cols="1">
+                <colspec colnum="1" colname="c1"/>
+                <tbody>
+                  <row>
+                    <entry>LED<emphasis effect="bold">*</emphasis></entry>
+                  </row>
+                  <row>
+                    <entry>Buzzer</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>Sliding switch</entry>
+              <entry>Diode</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169652346676">*LED stands for “Light Emitting Diode”, thus a diode that emits light. A diode is a little apparatus that allows current to flow in one direction only, therefore it can only be coupled in one way in the circuit.</para>
+      <para id="id1169648035532">Assignment 2</para>
+      <para id="id1169647931668">1. Draw a simple circuit that contains the following components:</para>
+      <para id="id7853283">BATTERY, SLIDING SWITCH, LIGHT BULB, CONDUCTOR</para>
+      <para id="id1169647130267">2. Provide two examples of each where the heating effect, magnetizing effect and chemical effect of an electrical current are applied.</para>
+      <table id="id1169641240304" summary="">
+        <tgroup cols="17">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <colspec colnum="17" colname="c17"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LO 1.3</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>LO 2.4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>LO 2.1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1169652458878">
+      <title>Assessment</title>
+      <table id="id1169641979526" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 1 </entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">TECHNOLOGICAL PROCESSES AND SKILLS</emphasis>The learner will be able to apply technological processes and skills ethically and responsibly using appropriate information and communication technology.</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>This is demonstrated when the learner:</entry>
+            </row>
+            <row>
+              <entry>investigates:1.1 investigates the background context, the nature of the need, the environmental situation, and the people concerned when given a problem, need or opportunity set in a nationally relevant context;</entry>
+            </row>
+            <row>
+              <entry>1.2 compares existing products relevant to the problem situation based on:<list id="id1169650968283" list-type="bulleted"><item>safety;</item><item>suitability of materials;</item><item>fitness for purpose;</item><item>cost;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.3 develops and performs practical tests in the technological knowledge areas (structures, processing and systems and control);</entry>
+            </row>
+            <row>
+              <entry>1.4 uses appropriate technologies and methods to:<list id="id1169641841959" list-type="bulleted"><item>collect relevant data from different sources or resources;</item><item>extract relevant data;</item><item>make meaningful summaries;</item><item>use information to justify and support decisions and ideas;</item></list></entry>
+            </row>
+            <row>
+              <entry>designs:1.5 writes or communicates a short and clear statement or a design brief in response to a given identified situation for the development of a product or system;</entry>
+            </row>
+            <row>
+              <entry>1.6 lists product and design specifications and constraints for a solution to an identified or given problem, need or opportunity based on most of the design key words listed below:<list id="id1169644873464" list-type="bulleted"><item>people: age, target market, human rights, access;</item><item>purpose: function, what product will do;</item><item>appearance: colour, shape;</item><item>environment: where the product will be used or made, impact on the environment;</item><item>safety: for users and manufacturers;</item><item>cost: cost of materials, wastage, cost of manufacture, maximum selling price;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.7 generates several alternative solutions and writes notes, ideas that show links to the design brief, specifications and constraints;</entry>
+            </row>
+            <row>
+              <entry>1.8 chooses possible solutions based on well-reasoned argument and develops the chosen idea to include more specific details using graphic and / or modelling techniques;</entry>
+            </row>
+            <row>
+              <entry>makes:1.9 develops a plan for making that includes all of the following:<list id="id1169652578627" list-type="bulleted"><item>resources needed ;</item><item>sketches showing the necessary dimensions or quantities;</item><item>all the steps necessary to make the product;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.10 chooses and uses appropriate tools and materials to make products by measuring, marking, cutting or separating, shaping or forming, joining or combining, and finishing different materials accurately using appropriate techniques;</entry>
+            </row>
+            <row>
+              <entry>1.12 uses safe working practices and shows awareness of efficient ways of using materials and tools;</entry>
+            </row>
+            <row>
+              <entry>evaluates:1.13 tests and evaluates the products or systems with objectivity, based on objective criteria linked to the design brief, specifications and constraints, and suggests sensible improvements or modifications;</entry>
+            </row>
+            <row>
+              <entry>communicates:1.14 presents ideas (in a project portfolio) using two-dimensional or three-dimensional sketches, circuit diagrams or systems diagrams that include all of the following:<list id="id1169647284756" list-type="bulleted"><item>conventional drawing conventions (e.g. dimension lines, labelling, line types, symbols);</item><item>notes to clarify and communicate design fea­tures and reasoning; enhancement of significant sketches like final solution drawings (e.g. colour, shade, texture, shadow, thick and thin lines).</item></list></entry>
+            </row>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 2 </entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">TECHNOLOGICAL KNOWLEDGE AND UNDERSTANDING</emphasis>The learner will be able to understand and apply relevant technological knowledge ethically and responsibly.</entry>
+            </row>
+            <row>
+              <entry>This is demonstrated when the learner:</entry>
+            </row>
+            <row>
+              <entry>structures:2.1 demonstrate knowledge and understanding of frame structures:<list id="id1169644149966" list-type="bulleted"><item>the use and application of basic structural components (columns, beams, arches, buttresses, struts, stays, guys, ties);</item><item>reinforcing techniques for frame structures (triangulation, webs and fillets, orientation and cross-sectional area and members);</item><item>how frame structures can be made strong (e.g. relationship between the size and the shape of the base, the centre of gravity and stability;</item></list>systems and control:2.4 demonstrates knowledge and understanding of how electrical circuits with more than one input or control device will work based on different logic conditions (“AND” and “OR” logic), and represents them using circuit diagrams, systems diagrams and truth tables.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id2998671">
+      <title/>
+      <para id="para-id2998671">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169644104076">
+      <title/>
+      <para id="para-id1169644104076">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169647308304">
+      <title/>
+      <para id="para-id1169647308304">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169648063680">
+      <title>Memorandum</title>
+      <para id="id1169651500302">Assignment 1</para>
+      <list id="id1169651281113" list-type="bulleted">
+        <item>Build the following circuit. Two clamps could be used for holding components in position. The results should produce the following:</item>
+      </list>
+      <table id="id1169644315046" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Item</entry>
+              <entry>Material</entry>
+              <entry>Isolator</entry>
+              <entry>Conductor</entry>
+            </row>
+            <row>
+              <entry>Ruler</entry>
+              <entry>Perspex</entry>
+              <entry>Yes</entry>
+              <entry>No</entry>
+            </row>
+            <row>
+              <entry>Nail</entry>
+              <entry>Steel</entry>
+              <entry>No</entry>
+              <entry>Yes</entry>
+            </row>
+            <row>
+              <entry>Paper Clip</entry>
+              <entry>Copper</entry>
+              <entry>No</entry>
+              <entry>Yes</entry>
+            </row>
+            <row>
+              <entry>Wool</entry>
+              <entry>-</entry>
+              <entry>Yes</entry>
+              <entry>No</entry>
+            </row>
+            <row>
+              <entry>Cardboard</entry>
+              <entry>-</entry>
+              <entry>Yes</entry>
+              <entry>No</entry>
+            </row>
+            <row>
+              <entry>Tin foil</entry>
+              <entry>Aluminium</entry>
+              <entry>No</entry>
+              <entry>Yes</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169646363766">Assignment 2 CIRCUITS</para>
+      <para id="id1169644086235">2.</para>
+      <para id="id1169642715133">Heating: heater, hot water cylinderMagnetic: electric motor, domestic doorbell, indicator lights of a car, Chemical: swimming pool chlorinator, covering objects in metal/electrode</para>
+    </section>
+  </content>
+</document>
